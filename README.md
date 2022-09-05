@@ -1,16 +1,10 @@
-# remote_control_ui
+# remote_control_client
 
-远控程序控制端
+#### 介绍
+采用flutter+dart开发的跨平台UI展示应用
 
-## Getting Started
+#### 使用说明
+1.安装flutter开发环境->https://flutter.cn/docs/get-started/install
+2.推荐开发工具：Android Studio
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+其他问题可关注公众号“独语小栈”交流
